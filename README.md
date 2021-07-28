@@ -1,4 +1,1 @@
-
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+# Helo, my name is SheDarriea. I have some programming experience but not a lot like some of my peers. This is my mini coding solstace.
