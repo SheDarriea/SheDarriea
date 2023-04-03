@@ -1,3 +1,3 @@
-- Future Jr. Web Developer and more
+- Jr. Web Developer
 - Freecodecamp
 - Codeacademy 
