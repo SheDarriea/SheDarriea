@@ -1,3 +1,4 @@
-- Jr. Web Developer
+- Computer Science
 - Freecodecamp
 - Codeacademy 
+- FinTech
